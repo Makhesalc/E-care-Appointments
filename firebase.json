@@ -1,0 +1,8 @@
+{
+  "hosting": {
+    "site": "ecareappointments",
+
+    "public": "public",
+    ...
+  }
+}
